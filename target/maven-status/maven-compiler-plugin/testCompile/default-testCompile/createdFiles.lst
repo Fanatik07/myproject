@@ -4,9 +4,9 @@ com/mycompany/webapp/listener/StartupListenerTest.class
 com/mycompany/service/MailEngineTest.class
 com/mycompany/dao/GenericDaoTest.class
 com/mycompany/service/UserManagerTest.class
-com/mycompany/service/MockUserDetailsService.class
 com/mycompany/webapp/controller/SignupControllerTest.class
 com/mycompany/webapp/controller/UserFormControllerTest.class
+com/mycompany/service/MockUserDetailsService.class
 com/mycompany/service/impl/PersistentPasswordTokenManagerTest.class
 com/mycompany/webapp/filter/LocaleFilterTest.class
 com/mycompany/dao/LookupDaoTest.class
